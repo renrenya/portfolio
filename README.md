@@ -11,8 +11,8 @@ My Python app portfolio.
 
 ### ✊ じゃんけんアプリ（Streamlit）
 - ファイル: [`janken.py`](./janken.py)
-- Webでプレイ：[StreamlitのURL]
+- Webでプレイ：[https://portfolio-renyajanken.streamlit.app/]
 
 ### 🧮 電卓アプリ（Streamlit）
 - ファイル: [`calculator.py`](./calculator.py)
-- Webでプレイ：[treamlitのURL]
+- Webでプレイ：[https://portfolio-renyacalculator.streamlit.app/]
