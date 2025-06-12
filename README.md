@@ -27,7 +27,7 @@ My Python app portfolio.
 
 ### 電卓アプリ（Streamlit）
 - ファイル: [`calculator.py`](./calculator.py)
-- 説明: 計算式を入力して答えを出すシンプルな電卓（履歴機能あり）
+- 説明: 計算式を入力して答えを出すシンプルな電卓（履歴機能あり）例：（ 1 + 2 ）（ 3 * 2 / 1 ）
 - Webでプレイ：[https://portfolio-renyacalculator.streamlit.app/]
 
 ## こだわりポイント
