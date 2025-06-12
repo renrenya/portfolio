@@ -11,6 +11,10 @@ My Python app portfolio.
 - Streamlit（Webアプリ化）
 - GitHub（コード公開）
 
+ # Pythonアプリ ポートフォリオ
+
+## アプリ一覧
+
 ### タイピングゲーム（Python GUI）
 - ファイル: [`typing.py`](./typing.py)
 - 説明: 日本語の文章をタイピングして速度を測定するゲームです。
