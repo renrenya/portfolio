@@ -4,7 +4,7 @@ import streamlit as st
 st.title("簡易電卓アプリ")
 
 # 入力欄
-expr = st.text_input("計算式を入力（例: 1 + 2）")
+expr = st.text_input("計算式を入力（例: 1 + 2）,( 2 * 3)")
 
 # 計算履歴
 if "history" not in st.session_state:
