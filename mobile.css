@@ -1,0 +1,26 @@
+/* スマホ専用スタイル */
+body {
+  font-size: 16px;
+  line-height: 1.8;
+  padding: 10px;
+}
+
+.container {
+  width: 95%;
+  padding: 1em;
+  box-sizing: border-box;
+}
+
+p, li {
+  font-size: 17px;
+  line-height: 1.9;
+  text-align: left;
+  word-break: break-word;
+  white-space: normal;
+  max-width: 100%;
+}
+
+h1, h2, h3 {
+  font-size: 20px;
+  text-align: center;
+}
