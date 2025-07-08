@@ -1,48 +1,26 @@
-@media screen and (max-width: 600px) {
-  body {
-    font-size: 16px;
-    line-height: 1.8;
-    padding: 1em;
-    margin: 0;
-  }
-
-  .container {
-    width: 95%;
-    max-width: 100%;
-    padding: 0 10px;
-    margin: 0 auto;
-    box-sizing: border-box;
-    text-align: left;
-  }
-
-  p, li {
-    font-size: 16px;
-    line-height: 1.8;
-    margin-bottom: 1em;
-    white-space: normal;
-    word-break: normal;
-    text-align: left;
-  }
-
-  h1, h2, h3, h4, h5 {
-    font-size: 18px;
-    margin-top: 1.2em;
-    margin-bottom: 0.5em;
-    text-align: center;
-  }
-
-  ul {
-    padding-left: 1.2em;
-    margin: 0 0 1em 0;
-    text-align: left;
-  }
-
-  a {
-    word-break: break-word;
-  }
-
-  br {
-    display: none;
-  }
+/* スマホ専用スタイル */
+body {
+  font-size: 16px;
+  line-height: 1.8;
+  padding: 10px;
 }
 
+.container {
+  width: 95%;
+  padding: 1em;
+  box-sizing: border-box;
+}
+
+p, li {
+  font-size: 17px;
+  line-height: 1.9;
+  text-align: left;
+  word-break: break-word;
+  white-space: normal;
+  max-width: 100%;
+}
+
+h1, h2, h3 {
+  font-size: 20px;
+  text-align: center;
+}
